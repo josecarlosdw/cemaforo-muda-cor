@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.retangulo {
+  width: 168px;
+  height: 350px;
+  padding-top: 10px;
+  border: 10px solid #403c3c;
+  box-sizing: border-box;
+  border-radius: 15%;
+  background-image: linear-gradient(to bottom, white, gray);
+}
+
+.circleOne {
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 80px;
+  height: 80px;
+  border: 5px solid #403c3c;
+  background-color: #000;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.circleTwo {
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 80px;
+  height: 80px;
+  border: 5px solid #403c3c;
+  background-color: #000;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.circleThree {
+  margin-left: 30px;
+  margin-right: 30px;
+  border: 5px solid #403c3c;
+  width: 80px;
+  height: 80px;
+  background-color: #000;
+  border-radius: 100%;
+}
