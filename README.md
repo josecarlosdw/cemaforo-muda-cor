@@ -1,2 +1,3 @@
 # cemaforo-muda-cor
-Created with CodeSandbox
+
+Aplicação criada com React na plataforma CodeSandbox
