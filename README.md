@@ -1,3 +1,5 @@
 # cemaforo-muda-cor
 
-Aplicação criada com React na plataforma CodeSandbox
+Aplicação criada com React
+
+
