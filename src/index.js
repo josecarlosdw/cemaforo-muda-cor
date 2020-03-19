@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-//import Cemaforo from "/Cemaforo"
 import "./styles.css";
 
 class App extends Component {
